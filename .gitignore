@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+apps/frontend/node_modules/
+apps/backend/kingstar.db
